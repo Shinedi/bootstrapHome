@@ -1,0 +1,43 @@
+.box{
+    background:#FEFEF4;
+}
+.paddings{
+    padding: 0;
+}
+#nav li{
+    padding:0 10px;
+}
+#nav li a,#footertop li a{
+    color:#033;
+}
+#nav li a:hover{
+    background:#693;
+    color:#fff;
+    border-radius: 10px;
+}
+.rollimg img{
+    width:100%;
+}
+#register{
+    font-size:14px;
+    background:#EDEDED;
+    height:45px;
+    line-height: 45px;
+}
+.aright,.connection{
+    margin-top:5%;
+}
+.connection img{
+    width:120px;
+    height:60px;
+}
+.active{
+    background: #693;
+}
+#footertop li{
+    padding:0 10px;
+}
+#footertop li a:hover{
+    background: darkgoldenrod;
+    border-radius: 10px;
+}

@@ -1,0 +1,75 @@
+
+#navs li{
+    padding:0 10px;
+}
+#navs li a,#footertop li a{
+    color:#033;
+}
+#navs li a:hover{
+    background:#693;
+    color:#fff;
+    border-radius: 10px;
+}
+h1,#r1 font{
+    color:#fff;
+}
+/*第一部分*/
+#r1{
+    background:url("../images/about-1.png");
+}
+.aright,.connection{
+    margin-top:5%;
+}
+.aright img{
+    width:50px;
+    height:50px;
+}
+.connection img{
+    width:120px;
+    height:50px;
+}
+/*第二部分*/
+#r2{
+    background:url("../images/about-2.png");
+}
+#r2son{
+    font-size:12px;
+    color:#fff;
+    margin:3% 0;
+}
+#r2son img{
+    width:70px;
+    height: 70px;
+}
+/*第三部分*/
+#r3{
+    background:url("../images/about-3.png");
+    color:#fff;
+}
+/*第四部分*/
+#r4{
+    background:url("../images/about-4.png");
+}
+#r4son,#r5son{
+    margin: 3% 0;
+}
+/*第五部分*/
+#r5{
+    background:url("../images/about-5.png");
+}
+/*第六部分*/
+#r6{
+    background:url("../images/about-6.png");
+    color:#fff;
+}
+/*尾部*/
+#footertop li{
+    padding:0 10px;
+}
+#footertop li a:hover{
+    background: darkgoldenrod;
+    border-radius: 10px;
+}
+.paddings{
+    padding: 0;
+}
